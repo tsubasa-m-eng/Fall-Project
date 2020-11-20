@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Fall Project",
+"productVersion": "1.0",
+"dataUrl": "Fall Project.data.unityweb",
+"asmCodeUrl": "Fall Project.asm.code.unityweb",
+"asmMemoryUrl": "Fall Project.asm.memory.unityweb",
+"asmFrameworkUrl": "Fall Project.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
